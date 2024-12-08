@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NIC")(type "KiCad")(uri "/home/horimoto/work/KiCAD/001/NIC.kicad_sym")(options "")(descr ""))
+  (lib (name "001-eagle-import")(type "Legacy")(uri "/home/horimoto/work/KiCAD/M251K-TB2C2/001-eagle-import.lib")(options "")(descr ""))
+)
