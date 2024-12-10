@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "M252 TB2 adapter for M302")
-		(date "2024-12-08")
-		(rev "1.00")
+		(date "2024-12-10")
+		(rev "1.01")
 		(company "YS Lab")
 	)
 	(lib_symbols
@@ -2894,9 +2894,9 @@
 		)
 		(uuid "ff45c7c2-38a3-4cf3-97c8-7b55627668ee")
 	)
-	(text "To_TX"
+	(text "To_TX (UNO 7pin)"
 		(exclude_from_sim no)
-		(at 63.246 77.724 0)
+		(at 57.404 77.724 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2904,9 +2904,9 @@
 		)
 		(uuid "089b54b3-2f95-442f-9c07-2f742b3bfa4f")
 	)
-	(text "To_RX"
+	(text "To_RX (UNO 6pin)"
 		(exclude_from_sim no)
-		(at 63.5 80.01 0)
+		(at 57.15 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4701,7 +4701,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B5B-XH-AM_1x05_P2.50mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 68.58 39.37 0)
 			(effects
 				(font
@@ -4719,7 +4719,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 68.58 39.37 0)
 			(effects
 				(font
