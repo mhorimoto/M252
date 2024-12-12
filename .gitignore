@@ -17,6 +17,8 @@ _autosave-*
 *-save.kicad_pcb
 M252/fp-info-cache
 M252/M252-backups/*
+M252VOLTERA/fp-info-cache
+M252VOLTERA/M252-backups/*
 
 # Netlist files (exported from Eeschema)
 *.net
