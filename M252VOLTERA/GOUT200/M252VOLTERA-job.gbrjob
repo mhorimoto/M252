@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "8.0.7-8.0.7-0~ubuntu22.04.1"
     },
-    "CreationDate": "2024-12-10T16:16:58+09:00"
+    "CreationDate": "2024-12-13T16:21:25+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "M252",
-      "GUID": "4d323532-2e6b-4696-9361-645f70636258",
+      "Name": "M252VOLTERA",
+      "GUID": "4d323532-564f-44c5-9445-52412e6b6963",
       "Revision": "rev?"
     },
     "Size": {
@@ -27,54 +27,42 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.2,
-      "TrackToRegion": 0.5,
-      "RegionToRegion": 0.5
+      "MinLineWidth": 0.5
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "M252-F_Cu.gbr",
+      "Path": "M252VOLTERA-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "M252-B_Cu.gbr",
+      "Path": "M252VOLTERA-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "M252-F_Paste.gbr",
+      "Path": "M252VOLTERA-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "M252-B_Paste.gbr",
+      "Path": "M252VOLTERA-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "M252-F_Silkscreen.gbr",
-      "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "M252-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "M252-F_Mask.gbr",
+      "Path": "M252VOLTERA-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "M252-B_Mask.gbr",
+      "Path": "M252VOLTERA-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "M252-Edge_Cuts.gbr",
+      "Path": "M252VOLTERA-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
