@@ -52,7 +52,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_issues|105704000|73914000|5c51cb84-bf06-4c30-88be-ad92e89d3af9|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|102704000|74780633|aee56f2a-9f04-4aa3-b179-b9fb6569a29f|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|103991033|73420893|6a731caf-0d08-4d8b-92aa-c4c8c3c2bc29|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|108704000|73047367|013bee24-baed-452b-aa44-c240a58c6f45|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
