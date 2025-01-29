@@ -2916,7 +2916,6 @@
 	)
 	(label "GND"
 		(at 135.89 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.254 0.254)
@@ -2927,7 +2926,6 @@
 	)
 	(label "TB2_TX"
 		(at 91.44 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -2938,7 +2936,6 @@
 	)
 	(label "TB2_RX"
 		(at 91.44 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.778 1.778)
